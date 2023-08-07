@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "kernel_xiaomi_redwwood",
+    "target_path": "kernel/xiaomi/redwood",
+    "branch": "thirteen"
+  },
+  {
+    "repository": "vendor_xiaomi_redwood",
+    "target_path": "vendor/xiaomi/redwood",
+    "branch": "thirteen",
+    "remote": "pixel-devices-blobs"
+  }
+]
