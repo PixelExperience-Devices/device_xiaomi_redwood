@@ -34,3 +34,6 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 113254576128
 
 # Include proprietary files
 include vendor/xiaomi/redwood/BoardConfigVendor.mk
+
+# Firmware
+$(call inherit-product-if-exists, vendor/xiaomi/redwood-firmware/config.mk)
