@@ -7,7 +7,6 @@ bt_fm_slim.ko
 btpower.ko
 camera.ko
 device_management_service_v01.ko
-goodix_core.ko
 goodix_tee.ko
 hdmi_dlkm.ko
 icnss2.ko
